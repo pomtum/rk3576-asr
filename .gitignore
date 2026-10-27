@@ -1,0 +1,26 @@
+# build outputs
+build/
+.gradle/
+.cxx/
+.externalNativeBuild/
+*.apk
+tools/device/out/
+work/
+
+# local configuration and signing secrets
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# Rockchip runtime and header (fetched by scripts/fetch_rknn_runtime.sh, not redistributed)
+app/src/main/jniLibs/
+app/src/main/cpp/include/
+
+# models (built by tools/convert/build_model.sh, installed by scripts/install_models.sh)
+app/src/main/assets/models/
+*.rknn
+*.onnx
+
+.idea/
+*.iml

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp" android:height="32dp" android:viewportWidth="24" android:viewportHeight="24"
+    android:tint="@color/on_mic_live">
+    <path android:fillColor="#FFFFFFFF" android:pathData="M6,6h12v12H6z" />
+</vector>

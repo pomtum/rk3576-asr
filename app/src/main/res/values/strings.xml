@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PomTum ASR</string>
+    <string name="language_group">Recognition language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_zh">中文</string>
+    <string name="history">Transcript</string>
+    <string name="empty_hint">Press the AI key on the left side to start. What you hear will appear here.</string>
+    <string name="hint_listening">Listening… speak now.</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="clear">Clear</string>
+    <string name="key_start">Press the AI key to start</string>
+    <string name="key_stop">Press the AI key to stop</string>
+
+    <string name="status_loading">Loading %1$s model…</string>
+    <string name="status_ready">Ready. %1$s. Press the AI key to start.</string>
+    <string name="status_listening">Listening. %1$s. Press the AI key to stop.</string>
+    <string name="status_error">Something went wrong: %1$s</string>
+    <string name="status_missing_model">The %1$s model is not included in this build.</string>
+    <string name="status_mic_error">The microphone could not be opened.</string>
+    <string name="status_need_permission">Microphone permission is needed to listen.</string>
+
+    <string name="copied">Transcript copied</string>
+    <string name="nothing_to_copy">The transcript is empty</string>
+    <string name="cleared">Transcript cleared</string>
+    <string name="clear_confirm_title">Clear the transcript?</string>
+    <string name="clear_confirm_message">All %1$d sentences will be deleted.</string>
+    <string name="clear_confirm_ok">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="share_title">Share transcript</string>
+    <string name="sentence_count">%1$d sentences</string>
+</resources>

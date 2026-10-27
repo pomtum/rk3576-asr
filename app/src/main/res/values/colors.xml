@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0B0C0F</color>
+    <color name="surface">#16181D</color>
+    <color name="surface_2">#23262D</color>
+    <color name="text">#F4F4F1</color>
+    <color name="text_dim">#A9ADB6</color>
+    <color name="accent">#7CC4FF</color>
+    <color name="mic_idle">#F4F4F1</color>
+    <color name="on_mic_idle">#0B0C0F</color>
+    <color name="mic_live">#E5484D</color>
+    <color name="on_mic_live">#FFFFFF</color>
+    <color name="ok">#3DD68C</color>
+    <color name="warn">#F5A524</color>
+</resources>

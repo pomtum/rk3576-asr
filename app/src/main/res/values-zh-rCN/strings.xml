@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_group">识别语言</string>
+    <string name="history">记录</string>
+    <string name="empty_hint">按机身左侧的 AI 键开始，听到的话会显示在这里。</string>
+    <string name="hint_listening">正在听…请说话。</string>
+    <string name="copy">复制</string>
+    <string name="share">分享</string>
+    <string name="clear">清空</string>
+    <string name="key_start">按左侧 AI 键开始</string>
+    <string name="key_stop">再按 AI 键停止</string>
+
+    <string name="status_loading">正在加载%1$s模型…</string>
+    <string name="status_ready">已就绪。%1$s。按 AI 键开始。</string>
+    <string name="status_listening">正在听。%1$s。再按 AI 键停止。</string>
+    <string name="status_error">出错了：%1$s</string>
+    <string name="status_missing_model">这个版本没有包含%1$s模型。</string>
+    <string name="status_mic_error">无法打开麦克风。</string>
+    <string name="status_need_permission">需要麦克风权限才能听写。</string>
+
+    <string name="copied">已复制全部记录</string>
+    <string name="nothing_to_copy">记录是空的</string>
+    <string name="cleared">记录已清空</string>
+    <string name="clear_confirm_title">清空记录？</string>
+    <string name="clear_confirm_message">全部 %1$d 句都会被删除。</string>
+    <string name="clear_confirm_ok">清空</string>
+    <string name="cancel">取消</string>
+    <string name="share_title">分享记录</string>
+    <string name="sentence_count">%1$d 句</string>
+</resources>
